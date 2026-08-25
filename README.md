@@ -53,8 +53,8 @@ Full stack developer working across frontend and backend. I build web apps with 
   <img src="https://github-readme-stats.vercel.app/api?username=VasquezAlex&show_icons=true&theme=graywhite&hide_border=true&border_radius=6&bg_color=0a0a0a&title_color=e0e0e0&text_color=a0a0a0&icon_color=808080" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasquezAlex&layout=compact&theme=graywhite&hide_border=true&border_radius=6&bg_color=0a0a0a&title_color=e0e0e0&text_color=a0a0a0" width="49%" />
 </p>
-
 <br/>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=60&section=footer&text=&fontSize=1"/>
