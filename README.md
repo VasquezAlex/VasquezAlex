@@ -87,8 +87,9 @@ The operating notes live in the Devyrse repository, next to the code they descri
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VasquezAlex&show_icons=true&theme=graywhite&hide_border=true&border_radius=6&bg_color=0a0a0a&title_color=e0e0e0&text_color=a0a0a0&icon_color=808080" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasquezAlex&layout=compact&theme=graywhite&hide_border=true&border_radius=6&bg_color=0a0a0a&title_color=e0e0e0&text_color=a0a0a0" width="49%" />
+  <img src="https://img.shields.io/github/followers/VasquezAlex?style=for-the-badge&logo=github&label=followers&color=2a2a2a&labelColor=0a0a0a&logoColor=e0e0e0" alt="Followers" />
+  <img src="https://img.shields.io/github/languages/top/VasquezAlex?style=for-the-badge&color=2a2a2a&labelColor=0a0a0a" alt="Top language" />
+  <img src="https://img.shields.io/github/languages/count/VasquezAlex?style=for-the-badge&label=languages&color=2a2a2a&labelColor=0a0a0a" alt="Languages" />
 </p>
 
 <br/>
