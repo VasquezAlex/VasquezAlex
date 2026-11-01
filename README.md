@@ -88,8 +88,6 @@ The operating notes live in the Devyrse repository, next to the code they descri
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/VasquezAlex?style=for-the-badge&logo=github&label=followers&color=2a2a2a&labelColor=0a0a0a&logoColor=e0e0e0" alt="Followers" />
-  <img src="https://img.shields.io/github/languages/top/VasquezAlex?style=for-the-badge&color=2a2a2a&labelColor=0a0a0a" alt="Top language" />
-  <img src="https://img.shields.io/github/languages/count/VasquezAlex?style=for-the-badge&label=languages&color=2a2a2a&labelColor=0a0a0a" alt="Languages" />
 </p>
 
 <br/>
