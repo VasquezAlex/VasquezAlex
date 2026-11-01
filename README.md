@@ -40,10 +40,9 @@ I build web apps end to end: a Vue and Next.js frontend, JavaScript services on 
 I own and build [**Devyrse**](https://devyrse.com), a team chat app for software teams. It's one product with a website, an API, a desktop app and a Windows setup, and it has a public [changelog](https://devyrse.com/changelog) and a [status page](https://status.devyrse.com).
 
 | | |
-| :--- | :--- |
-| **Website** | [devyrse.com](https://devyrse.com) |
-| **Changelog** | [devyrse.com/changelog](https://devyrse.com/changelog) |
-| **Status** | [status.devyrse.com](https://status.devyrse.com) |
+- **Website:** [devyrse.com](https://devyrse.com)
+- **Changelog:** [devyrse.com/changelog](https://devyrse.com/changelog)
+- **Status:** [status.devyrse.com](https://status.devyrse.com)
 
 <a id="stack"></a>
 
