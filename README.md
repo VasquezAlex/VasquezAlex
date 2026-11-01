@@ -21,7 +21,6 @@ I'm the owner and main developer of [Devyrse](https://devyrse.com), a team chat 
 - Website: [devyrse.com](https://devyrse.com)
 - Changelog: [devyrse.com/changelog](https://devyrse.com/changelog)
 - Status: [status.devyrse.com](https://status.devyrse.com)
-- Source: [github.com/Devyrse/Devyrse](https://github.com/VasquezAlex/Devyrse)
 
 <br/>
 
