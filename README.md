@@ -14,6 +14,17 @@ Full stack developer working across frontend and backend. I build web apps with 
 
 <br/>
 
+## Devyrse
+
+I'm the owner and main developer of [Devyrse](https://devyrse.com), a team chat app for software teams. It's a Vue site, a Node API on Postgres, an Electron desktop app, a Windows setup and a status page at [status.devyrse.com](https://status.devyrse.com), all in one repository. It runs self-hosted on DigitalOcean with Coolify.
+
+- Website: [devyrse.com](https://devyrse.com)
+- Changelog: [devyrse.com/changelog](https://devyrse.com/changelog)
+- Status: [status.devyrse.com](https://status.devyrse.com)
+- Source: [github.com/Devyrse/Devyrse](https://github.com/VasquezAlex/Devyrse)
+
+<br/>
+
 ## Tech Stack
 
 <p align="left">
